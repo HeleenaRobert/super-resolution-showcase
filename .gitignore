@@ -2,8 +2,11 @@
 __pycache__/
 *.pyc
 
-# Output images
-output/
+# Ignore all contents of the output folder
+output/*
+
+# Keep the folder itself (add a .gitkeep inside)
+!output/.gitkeep
 
 # Environment
 .env
