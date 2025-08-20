@@ -60,6 +60,7 @@ super-resolution-showcase/
 │
 ├── input/                            # Low-res input images
 │   ├── bike-200.png
+│   ├── car.jpg
 │   ├── car-low.jpg
 │   ├── kitten-200.png
 │   └── path-low.jpg
